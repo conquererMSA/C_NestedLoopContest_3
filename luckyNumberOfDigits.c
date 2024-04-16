@@ -10,6 +10,5 @@ int main(){
       }else{
         printf("No");
       }
-    //   printf("fd-%d\nsd-%d",fiD,seD);
     return 0;
 }
